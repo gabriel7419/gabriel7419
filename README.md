@@ -68,6 +68,10 @@ I am a <b>Developer and aspiring DevOps Engineer</b> focused on automation, infr
 </picture>
 
 ---
+---
 <div align="center">
-  <i>"I believe in continuous learning and giving back to the community through open-source collaboration."</i>
+  <blockquote>
+    "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." <br>
+    — <b>Edsger W. Dijkstra</b>
+  </blockquote>
 </div>
