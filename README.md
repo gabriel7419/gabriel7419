@@ -1,25 +1,74 @@
-# 💫 About Me:
-Hi there, I'm Gabriel! 🚀<br>I am a Developer and aspiring DevOps Engineer focused on automation, infrastructure as code, and the open-source ecosystem. I enjoy building efficient workflows and exploring the internals of Linux systems.<br><br>🛠️ Current Focus: Transitioning into DevOps/Cloud roles.<br><br>🐧 Linux Enthusiast: Daily driving Arch Linux at home and using WSL for professional environments.<br><br>🤝 Open Source: Proud contributor to tldr-pages and golazo.<br><br>🎓 Background: Degree in Internet Systems. For my final project, I implemented CI/CD pipelines using GCP and GitHub Actions.<br><br>💻 Tech Stack: Java (Spring), Go, Shell Scripting, and Cloud Infrastructure.<br><br>I believe in continuous learning and giving back to the community through open-source collaboration.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel7419.gabriel7419&"  />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-paiva-de-almeida-125398266/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sgtgabriel7419@gmail.com) 
+<h1 align="center">Hi there, I'm Gabriel! 🚀</h1>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabriel7419&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gabriel7419&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7419&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+I am a <b>Developer and aspiring DevOps Engineer</b> focused on automation, infrastructure as code, and the open-source ecosystem. I enjoy building efficient workflows and exploring the internals of Linux systems.
+<br><br>
+🛠️ <b>Current Focus:</b> Transitioning into DevOps/Cloud roles.<br>
+🐧 <b>Linux Enthusiast:</b> Daily driving <b>Arch Linux</b> at home and using <b>WSL</b> for professional environments.<br>
+🤝 <b>Open Source:</b> Proud contributor to <a href="https://github.com/tldr-pages/tldr">tldr-pages</a> and <a href="https://github.com/0xjuanma/golazo">golazo</a>.<br>
+🎓 <b>Background:</b> Degree in Internet Systems. For my final project, I implemented <b>CI/CD pipelines</b> using <b>GCP</b> and <b>GitHub Actions</b>.<br>
+💻 <b>Tech Stack:</b> Java (Spring), Go, Shell Scripting, and Cloud Infrastructure.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gabriel7419&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-paiva-de-almeida-125398266/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sgtgabriel7419@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🛠️ Technologies & Tools
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gabriel7419&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" alt="go logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
+</div>
+
+### 📊 Stats & Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=gabriel7419&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180" alt="top-contributed-repo" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabriel7419&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabriel7419&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel7419&radius=16&theme=tokyonight&area=true" height="300" alt="activity-graph graph"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabriel7419&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <i>"I believe in continuous learning and giving back to the community through open-source collaboration."</i>
+</div>
