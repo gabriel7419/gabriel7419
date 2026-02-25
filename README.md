@@ -54,7 +54,6 @@ I am a <b>Developer and aspiring DevOps Engineer</b> focused on automation, infr
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gabriel7419&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180" alt="top-contributed-repo" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=gabriel7419&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
 <div align="center">
