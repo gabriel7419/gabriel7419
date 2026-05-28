@@ -52,20 +52,15 @@ I am a <b>Developer and aspiring DevOps Engineer</b> focused on automation, infr
 ### 📊 Stats & Contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gabriel7419&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180" alt="top-contributed-repo" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel7419&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7419&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <br><br>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gabriel7419&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel7419&radius=16&theme=tokyonight&area=true" height="300" alt="activity-graph graph"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabriel7419/gabriel7419/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 ---
